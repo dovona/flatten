@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 0.5.2 - 2019-12-13
+
+### Changed
+- Replaced "philf/setting" package with "iandroogmans/philf-setting"
+
 ## 0.5.1 - 2014-11-21
 
 ### Fixed
